@@ -1,5 +1,5 @@
 # persensi_online_irfan
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
   <meta charset="UTF-8">
